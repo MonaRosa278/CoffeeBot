@@ -1,11 +1,7 @@
-# cs_projects
-#project1-zillowScraping 
-collect all the property listings attributes efficiently : location, number of bedrooms, renting price, etc… 
 
-#project2-English_dictionary
-technologies& languagues used: sql, python
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-#project3-coffeeBot
-interactive rule_based chatbot
 
+This small project is to simulate an automatic coffee ordering system to provide customers with cup types, coffee types and some recommendations to help customers order coffee by themselves
 
